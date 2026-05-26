@@ -43,7 +43,7 @@ export const seedData = {
   },
   hero: {
     image: {
-      src: "/images/seed/hero.jpg",
+      src: "https://images.unsplash.com/photo-1493770348161-369560ae357d?auto=format&fit=crop&w=1800&q=85",
       alt: "A bright brunch spread and coffee table at Seed Cafe Colombo",
       caption: "Horton Place mornings",
       tone: "green",
@@ -75,13 +75,13 @@ export const seedData = {
     ],
     images: [
       {
-        src: "/images/seed/space-1.jpg",
+        src: "https://img02.restaurantguru.com/c2b1-Seed-Cafe-Colombo-interior.jpg",
         alt: "Garden-like seating corner at Seed Cafe Colombo",
         caption: "Garden corners",
         tone: "green",
       },
       {
-        src: "/images/seed/space-2.jpg",
+        src: "https://img02.restaurantguru.com/c726-Seed-Cafe-Colombo-design.jpg",
         alt: "Warm cafe interior at Seed Cafe Colombo",
         caption: "Easy catchups",
         tone: "clay",
@@ -95,7 +95,7 @@ export const seedData = {
         "Eggs, croissants, bagels and hearty plates made for slow mornings and shared tables.",
       icon: "utensils",
       image: {
-        src: "/images/seed/food-1.jpg",
+        src: "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1100&q=85",
         alt: "Brunch plate served at Seed Cafe",
         tone: "cream",
       } satisfies SeedImage,
@@ -106,7 +106,7 @@ export const seedData = {
         "A relaxed coffee stop for lattes, iced coffee, matcha and an afternoon reset.",
       icon: "coffee",
       image: {
-        src: "/images/seed/coffee-1.jpg",
+        src: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1100&q=85",
         alt: "Coffee served at Seed Cafe Colombo",
         tone: "clay",
       } satisfies SeedImage,
@@ -117,7 +117,7 @@ export const seedData = {
         "Colourful bowls, cold-pressed juices, kombucha and fresh sips with a lighter feel.",
       icon: "leaf",
       image: {
-        src: "/images/seed/food-2.jpg",
+        src: "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?auto=format&fit=crop&w=1100&q=85",
         alt: "Smoothie bowl and fresh drink at Seed Cafe",
         tone: "sky",
       } satisfies SeedImage,
@@ -128,7 +128,7 @@ export const seedData = {
         "Warm, leafy and calm, with space for brunch dates, quiet work and easy catchups.",
       icon: "sprout",
       image: {
-        src: "/images/seed/food-3.jpg",
+        src: "https://img02.restaurantguru.com/cadc-Seed-Cafe-Colombo-interior-1.jpg",
         alt: "Fresh cafe plate with garden atmosphere",
         tone: "green",
       } satisfies SeedImage,
@@ -189,37 +189,37 @@ export const seedData = {
     heading: "A glimpse of Seed before the next table is ready.",
     images: [
       {
-        src: "/images/seed/gallery-1.jpg",
+        src: "https://img02.restaurantguru.com/c008-Seed-Cafe-Colombo-design-1.jpg",
         alt: "Slow morning table setting at Seed Cafe",
         caption: "Slow mornings",
         tone: "cream",
       },
       {
-        src: "/images/seed/gallery-2.jpg",
+        src: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=85",
         alt: "Brunch plates at Seed Cafe Colombo",
         caption: "Brunch plates",
         tone: "clay",
       },
       {
-        src: "/images/seed/gallery-3.jpg",
+        src: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=85",
         alt: "Coffee at Seed Cafe Colombo",
         caption: "Coffee at Seed",
         tone: "green",
       },
       {
-        src: "/images/seed/gallery-4.jpg",
+        src: "https://img02.restaurantguru.com/c2b1-Seed-Cafe-Colombo-interior.jpg",
         alt: "Garden corner at Seed Cafe",
         caption: "Garden corners",
         tone: "sky",
       },
       {
-        src: "/images/seed/gallery-5.jpg",
+        src: "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=85",
         alt: "Fresh smoothie bowl at Seed Cafe",
         caption: "Fresh bowls",
         tone: "green",
       },
       {
-        src: "/images/seed/gallery-6.jpg",
+        src: "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=85",
         alt: "Sweet treat at Seed Cafe Colombo",
         caption: "Sweet things",
         tone: "clay",
